@@ -40,4 +40,4 @@ HTTP에서 보안이 강화된 버전이라고 볼 수 있다. SSL 또는 TLS �
 
 \*\* 대칭키와 공개키 방식 모두 사용하는 이유가 공개키 방식으로만 하면 웹 서버와 브라우저에 많은 부담이 되기 때문에 HandShake 과정에서는 공개키 방식을 사용하고 그 이후는 HTTPS 통신은 대칭키 방식을 사용한다.
 
-<img src="https://velog.velcdn.com/images/bbkyoo/post/cdc237f0-d57a-46cb-a4c4-c14dfe11639b/image.png" width="100%" height="100%">
+![과정](https://velog.velcdn.com/images/bbkyoo/post/cdc237f0-d57a-46cb-a4c4-c14dfe11639b/image.png)
