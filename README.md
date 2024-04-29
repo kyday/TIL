@@ -4,14 +4,14 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Rendering](Browser/Rendering.md) - 30 Apr 24 01:46 +0900
 - [Closure](Javascript/Closure.md) - 28 Apr 24 12:15 +0900
-- [Storage](Browser/Storage.md) - 27 Apr 24 02:10 +0900
 
 ### Categories
 
@@ -20,6 +20,7 @@ _4 TILs and counting..._
 - [Network](#network)
 
 ### [Browser](#browser)
+- [Rendering](Browser/Rendering.md)
 - [Storage](Browser/Storage.md)
 
 ### [Javascript](#javascript)
