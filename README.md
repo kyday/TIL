@@ -4,14 +4,14 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Event propagation](Javascript/Event propagation.md) - 30 Apr 24 14:36 +0900
 - [Rendering](Browser/Rendering.md) - 30 Apr 24 01:46 +0900
-- [Closure](Javascript/Closure.md) - 28 Apr 24 12:15 +0900
 
 ### Categories
 
@@ -25,6 +25,7 @@ _5 TILs and counting..._
 
 ### [Javascript](#javascript)
 - [Closure](Javascript/Closure.md)
+- [Event propagation](Javascript/Event propagation.md)
 - [Event Loop](Javascript/EventLoop.md)
 
 ### [Network](#network)
