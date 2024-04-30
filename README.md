@@ -10,7 +10,7 @@ _6 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [Event propagation](Javascript/Event propagation.md) - 30 Apr 24 14:36 +0900
+- [Event propagation](Javascript/EventPropagation.md) - 30 Apr 24 14:37 +0900
 - [Rendering](Browser/Rendering.md) - 30 Apr 24 01:46 +0900
 
 ### Categories
@@ -25,8 +25,8 @@ _6 TILs and counting..._
 
 ### [Javascript](#javascript)
 - [Closure](Javascript/Closure.md)
-- [Event propagation](Javascript/Event propagation.md)
 - [Event Loop](Javascript/EventLoop.md)
+- [Event propagation](Javascript/EventPropagation.md)
 
 ### [Network](#network)
 - [HTTP / HTTPS](Network/http.md)
