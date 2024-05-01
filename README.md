@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _6 TILs and counting..._
 - [Closure](Javascript/Closure.md)
 - [Event Loop](Javascript/EventLoop.md)
 - [Event propagation](Javascript/EventPropagation.md)
+- [Hoisting](Javascript/Hoisting.md)
 
 ### [Network](#network)
 - [HTTP / HTTPS](Network/http.md)
