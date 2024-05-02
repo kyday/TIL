@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _7 TILs and counting..._
 - [Storage](Browser/Storage.md)
 
 ### [Javascript](#javascript)
+- [ArrayMethod](Javascript/ArrayMethod.md)
 - [Closure](Javascript/Closure.md)
 - [Event Loop](Javascript/EventLoop.md)
 - [Event propagation](Javascript/EventPropagation.md)
