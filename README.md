@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _8 TILs and counting..._
 - [Network](#network)
 
 ### [Browser](#browser)
+- [Cors](Browser/Cors.md)
 - [Rendering](Browser/Rendering.md)
 - [Storage](Browser/Storage.md)
 
