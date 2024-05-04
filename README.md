@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _9 TILs and counting..._
 - [Browser](#browser)
 - [Javascript](#javascript)
 - [Network](#network)
+- [Typescript](#typescript)
 
 ### [Browser](#browser)
 - [Cors](Browser/Cors.md)
@@ -33,6 +34,9 @@ _9 TILs and counting..._
 
 ### [Network](#network)
 - [HTTP / HTTPS](Network/http.md)
+
+### [Typescript](#typescript)
+- [TypeDefinition](Typescript/TypeDefinition.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
