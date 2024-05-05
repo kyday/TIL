@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -15,10 +15,14 @@ _10 TILs and counting..._
 
 ### Categories
 
+- [Algorithm](#algorithm)
 - [Browser](#browser)
 - [Javascript](#javascript)
 - [Network](#network)
 - [Typescript](#typescript)
+
+### [Algorithm](#algorithm)
+- [Fibonacci](Algorithm/Fibonacci.md)
 
 ### [Browser](#browser)
 - [Cors](Browser/Cors.md)
