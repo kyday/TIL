@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _12 TILs and counting..._
 ### [Javascript](#javascript)
 - [ArrayMethod](Javascript/ArrayMethod.md)
 - [Closure](Javascript/Closure.md)
+- [Copy](Javascript/Copy.md)
 - [Event Loop](Javascript/EventLoop.md)
 - [Event propagation](Javascript/EventPropagation.md)
 - [Hoisting](Javascript/Hoisting.md)
