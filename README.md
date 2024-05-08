@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -23,6 +23,7 @@ _13 TILs and counting..._
 - [Typescript](#typescript)
 
 ### [Algorithm](#algorithm)
+- [BinarySearch](Algorithm/BinarySearch.md)
 - [Fibonacci](Algorithm/Fibonacci.md)
 
 ### [Browser](#browser)
