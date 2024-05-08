@@ -28,6 +28,18 @@ function binarySearch(arr, target) {
     return -1;
 }
 
-
-
 ```
+
+1. binarySearch 함수는 정렬된 배열 arr와 찾고자 하는 target 값을 매개변수로 받습니다.
+
+2. left와 right 변수를 사용하여 탐색 범위는 left는 배열의 시작 인덱스이고 right는 배열의 끝 인덱스이다.
+
+3. while 루프 내에서 mid를 계산하여 현재 탐색 범위의 중간 인덱스를 찾습니다.
+
+4. if 문을 사용하여 mid 위치의 값이 target와 같은지 확인합니다. 같다면 mid 위치를 반환합니다.
+
+5. else if 문을 사용하여 mid 위치의 값이 target보다 작은지 확인합니다. 그렇다면 left를 mid + 1로 설정하여 왼쪽 탐색 범위를 좁힙니다.
+
+6. else 문을 사용하여 mid 위치의 값이 target보다 큰지 확인합니다. 그렇다면 right를 mid - 1로 설정하여 오른쪽 탐색 범위를 좁힙니다.
+
+7. while 루프가 종료되면, target 값이 배열에 존재하지 않는 경우 -1을 반환합니다.
