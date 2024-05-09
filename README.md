@@ -4,14 +4,14 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Next](Next/Nextjs.md) - 10 May 24 02:01 +0900
 - [Event propagation](Javascript/EventPropagation.md) - 30 Apr 24 14:37 +0900
-- [Rendering](Browser/Rendering.md) - 30 Apr 24 01:46 +0900
 
 ### Categories
 
@@ -19,6 +19,7 @@ _14 TILs and counting..._
 - [Browser](#browser)
 - [Javascript](#javascript)
 - [Network](#network)
+- [Next](#next)
 - [React](#react)
 - [Typescript](#typescript)
 
@@ -41,6 +42,9 @@ _14 TILs and counting..._
 
 ### [Network](#network)
 - [HTTP / HTTPS](Network/http.md)
+
+### [Next](#next)
+- [Next](Next/Nextjs.md)
 
 ### [React](#react)
 - [Key](React/key.md)
