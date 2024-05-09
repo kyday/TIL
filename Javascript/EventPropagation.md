@@ -2,7 +2,7 @@
 
 ## 이벤트 버블링( Event Bubbling )
 
-이벤트가 발생한 요소에서 시작하여 상위 요소로 이벤트가 전파되는 프로세스 (상위 -> 하위 요소로의 이벤트 전파 방식)
+이벤트가 발생한 요소에서 시작하여 상위 요소로 이벤트가 전파되는 프로세스 (하위 -> 상위 요소로의 이벤트 전파 방식)
 
 ![과정1](https://blog.kakaocdn.net/dn/bbKdOb/btr8huzzeg5/rouzSgA8XIigc2LvXZzWXK/img.png)
 
