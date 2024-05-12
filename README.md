@@ -4,14 +4,14 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Layout](Next/Layout.md) - 13 May 24 02:15 +0900
 - [뱀이 지나간 자리](Goorm/뱀이지나간자리.md) - 13 May 24 01:12 +0900
-- [K번째수](Programmers/K번째수.md) - 11 May 24 01:37 +0900
 
 ### Categories
 
@@ -49,6 +49,7 @@ _17 TILs and counting..._
 - [HTTP / HTTPS](Network/http.md)
 
 ### [Next](#next)
+- [Layout](Next/Layout.md)
 - [Next](Next/Nextjs.md)
 
 ### [Programmers](#programmers)
