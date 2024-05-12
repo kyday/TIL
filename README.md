@@ -4,19 +4,20 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [뱀이 지나간 자리](Goorm/뱀이지나간자리.md) - 13 May 24 01:12 +0900
 - [K번째수](Programmers/K번째수.md) - 11 May 24 01:37 +0900
-- [Next](Next/Nextjs.md) - 10 May 24 02:01 +0900
 
 ### Categories
 
 - [Algorithm](#algorithm)
 - [Browser](#browser)
+- [Goorm](#goorm)
 - [Javascript](#javascript)
 - [Network](#network)
 - [Next](#next)
@@ -32,6 +33,9 @@ _16 TILs and counting..._
 - [Cors](Browser/Cors.md)
 - [Rendering](Browser/Rendering.md)
 - [Storage](Browser/Storage.md)
+
+### [Goorm](#goorm)
+- [뱀이 지나간 자리](Goorm/뱀이지나간자리.md)
 
 ### [Javascript](#javascript)
 - [ArrayMethod](Javascript/ArrayMethod.md)
