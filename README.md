@@ -4,14 +4,14 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Promise](Javascript/Promise.md) - 14 May 24 01:38 +0900
 - [Layout](Next/Layout.md) - 13 May 24 02:15 +0900
-- [뱀이 지나간 자리](Goorm/뱀이지나간자리.md) - 13 May 24 01:12 +0900
 
 ### Categories
 
@@ -44,6 +44,7 @@ _18 TILs and counting..._
 - [Event Loop](Javascript/EventLoop.md)
 - [Event propagation](Javascript/EventPropagation.md)
 - [Hoisting](Javascript/Hoisting.md)
+- [Promise](Javascript/Promise.md)
 
 ### [Network](#network)
 - [HTTP / HTTPS](Network/http.md)
