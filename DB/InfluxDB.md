@@ -1,4 +1,4 @@
-## InfluxDB
+# InfluxDB
 
 - Go 언어로 개발된 오픈소스인 TSDB(time series database) 시계열 데이터 베이스이다.
 
