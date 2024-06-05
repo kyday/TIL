@@ -36,7 +36,7 @@ _21 TILs and counting..._
 - [Storage](Browser/Storage.md)
 
 ### [DB](#db)
-- [# InfluxDB](DB/InfluxDB.md)
+- [InfluxDB](DB/InfluxDB.md)
 
 ### [Goorm](#goorm)
 - [뱀이 지나간 자리](Goorm/뱀이지나간자리.md)
