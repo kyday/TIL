@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _21 TILs and counting..._
 - [Browser](#browser)
 - [DB](#db)
 - [Goorm](#goorm)
+- [Issue](#issue)
 - [Javascript](#javascript)
 - [Network](#network)
 - [Next](#next)
@@ -40,6 +41,9 @@ _21 TILs and counting..._
 
 ### [Goorm](#goorm)
 - [뱀이 지나간 자리](Goorm/뱀이지나간자리.md)
+
+### [Issue](#issue)
+- [React](Issue/react.md)
 
 ### [Javascript](#javascript)
 - [ArrayMethod](Javascript/ArrayMethod.md)
