@@ -4,7 +4,7 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -41,6 +41,7 @@ _23 TILs and counting..._
 - [InfluxDB](DB/InfluxDB.md)
 
 ### [Fastcampus](#fastcampus)
+- [검색엔진최적화](Fastcampus/검색엔진최적화.md)
 - [생산성향상](Fastcampus/생산성향상.md)
 
 ### [Goorm](#goorm)
