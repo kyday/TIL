@@ -4,14 +4,14 @@
 ### ✏️  오늘 내가 배운 것들을 기록하는 곳
 
 
-_24 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [퍼포먼스 최적화](Fastcampus/퍼포먼스최적화.md) - 11 Aug 25 00:29 +0900
 - [useCallback](React/useCallback.md) - 15 May 24 02:22 +0900
-- [Promise](Javascript/Promise.md) - 14 May 24 01:38 +0900
 
 ### Categories
 
@@ -43,6 +43,7 @@ _24 TILs and counting..._
 ### [Fastcampus](#fastcampus)
 - [검색엔진최적화](Fastcampus/검색엔진최적화.md)
 - [생산성향상](Fastcampus/생산성향상.md)
+- [퍼포먼스 최적화](Fastcampus/퍼포먼스최적화.md)
 
 ### [Goorm](#goorm)
 - [뱀이 지나간 자리](Goorm/뱀이지나간자리.md)
